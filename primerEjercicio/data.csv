@@ -1,0 +1,13 @@
+origen,destino,coste
+monoblock,ingenieria,10
+monoblock,derecho,8
+monoblock,cotacota,25
+ingenieria ,monoblock,10
+ingenieria ,derecho,4
+ingenieria ,cotacota,29
+derecho,monoblock,8
+derecho,ingenieria,4
+derecho,cotacota,27
+cotacota,monoblock,25
+cotacota,ingenieria,29
+cotacota,derecho,27
